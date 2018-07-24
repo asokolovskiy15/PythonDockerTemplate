@@ -1,3 +1,3 @@
 # Sample taken from pyStrich GitHub repository
 # https://github.com/mmulqueen/pyStrich
-print(1032)
+print "The answer is", 2*2
